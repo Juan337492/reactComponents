@@ -9,4 +9,4 @@ use the following link click [here](https://www.codecademy.com/articles/react-se
 * Once everthing above is installed open Node.js and cd to the download files
 * Then run command _npm start_ and your web browser should run the files
 ## Program output:
-This program demonstrates the use of the React.js library from basic to advanced component use.  
+This program demonstrates the use of the React.js library from simple to advanced component use.  
